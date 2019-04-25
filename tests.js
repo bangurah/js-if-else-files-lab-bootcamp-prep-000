@@ -6,6 +6,3 @@ if(index.name === "Susan") {
 if(index.height === "74") {
   console.log("The height is correct")
 }
-
-console.log(index.name)
-console.log(index.height)
